@@ -1,0 +1,9 @@
+# Credenciales
+.env
+# Datos personales recogidos
+datos/
+# Entorno virtual
+.venv/
+# Salidas de Jupyter
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,16 @@
+# Cliente de Bluesky (AT Protocol)
+atproto
+# Lectura de credenciales desde el archivo .env
+python-dotenv
+# Análisis de sentimiento en español (instala también transformers)
+pysentimiento
+# Motor de redes neuronales usado por el modelo
+torch
+# Tablas de datos
+pandas
+# Gráficos
+matplotlib
+# Métricas de evaluación
+scikit-learn
+# Necesario para ejecutar cuadernos Jupyter en VSCode
+ipykernel
