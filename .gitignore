@@ -18,3 +18,6 @@ Thumbs.db
 
 # Datasets excluidos
 MIA_26_27/NOTEBOOKS DEL AULA/datasets/calidad-del-aire-datos-historicos-diarios.csv
+
+# Checkpoints de entrenamiento NLP
+MIA_26_27/NOTEBOOKS DEL AULA/NLP/resultado_sentiment_es_public/
